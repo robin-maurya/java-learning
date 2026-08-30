@@ -1,4 +1,4 @@
-package PracticeQuestions.Day2.Conditions.elseif;
+package PracticeQuestions.Day2.Conditions.IfElse;
 
 public class ZeroNumber {
     public static void main(String[] args) {
