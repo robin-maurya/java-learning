@@ -2,7 +2,7 @@ package day24.concepts;
 
 public class EnumBasics {
 
-    enum OrderStatus {
+    public enum OrderStatus {
         PENDING,
         SHIPPED,
         DELIVERED,

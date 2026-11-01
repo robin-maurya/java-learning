@@ -2,7 +2,7 @@ package day24.concepts;
 
 public class EnumWithSwitch {
 
-    enum OrderStatus {
+    public enum OrderStatus {
         PENDING,
         SHIPPED,
         DELIVERED,
